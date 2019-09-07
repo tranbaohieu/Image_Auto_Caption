@@ -1,5 +1,5 @@
 # Image Captioning
-install keras, flask, tensorflow before run web demo
+install keras, flask, tensorflow before run web demo 
 Run web demo:
 python3 main.py
 localhost:8081
